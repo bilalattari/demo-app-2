@@ -1,0 +1,25 @@
+{
+  "name": "hseq-portal-demo",
+  "version": "1.0.0",
+  "description": "HSEQ Observation, Action Items & KPI Dashboard Portal — 12Monday Technologies Demo for PRL",
+  "private": true,
+  "scripts": {
+    "dev": "vite --port 3000 --strictPort",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0",
+    "antd": "^5.14.0",
+    "@ant-design/icons": "^5.3.0",
+    "recharts": "^2.12.0",
+    "xlsx": "^0.18.5",
+    "dayjs": "^1.11.10"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.1.0"
+  }
+}
